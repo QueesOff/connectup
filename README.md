@@ -2,6 +2,10 @@
 
 ### Project: ConnectUp
 
+### Author: Astra Moldakunova
+
+### Contact: +996553904044
+
 ![alt text](/assets/screens/Login2.png)
 
 ![alt text](/assets/screens/Explore.png)
